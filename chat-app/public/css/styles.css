@@ -32,9 +32,10 @@ label {
 }
 
 input {
-  border: 1px solid #eeeeee;
+  border: 1px solid #1b1a1a;
   padding: 12px;
   outline: none;
+  background-color: rgb(218, 214, 214);
 }
 
 button {
