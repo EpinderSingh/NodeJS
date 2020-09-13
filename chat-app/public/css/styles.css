@@ -183,3 +183,15 @@ button:disabled {
   font-weight: 300;
   padding: 12px 24px 0 24px;
 }
+.s-users:nth-child(4n + 0) {
+  color: yellow;
+}
+.s-users:nth-child(4n + 1) {
+  color: greenyellow;
+}
+.s-users:nth-child(4n + 2) {
+  color: rgb(243, 69, 98);
+}
+.s-users:nth-child(4n + 3) {
+  color: rgb(83, 152, 243);
+}
